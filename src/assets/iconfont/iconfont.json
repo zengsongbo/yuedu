@@ -1,0 +1,30 @@
+{
+  "id": "1898430",
+  "name": "yuedu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3376532",
+      "name": "赞",
+      "font_class": "zan",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "6119287",
+      "name": "赞-实色",
+      "font_class": "nice",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "8358885",
+      "name": "打赏1",
+      "font_class": "dashang",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    }
+  ]
+}
